@@ -1,0 +1,30 @@
+body{
+    font-family: 'lato', sans-serif;  
+    background-color:white;
+    
+}
+h1{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    }
+#overview{
+    font-style: oblique;
+    font-size:15px ;
+    
+}
+.abc{
+    font-size: 13px;
+    
+}
+.subtitle{
+    color: brown;
+    font-size: 20px;
+    
+}
+.xyz{
+    color:brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    
+}
